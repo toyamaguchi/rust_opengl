@@ -1,0 +1,8 @@
+[package]
+name = "sdl"
+version = "0.1.0"
+authors = ["Owner Name <owner_name@email.com>"]
+edition = "2018"
+
+[dependencies]
+sdl2 = "0.32.2"

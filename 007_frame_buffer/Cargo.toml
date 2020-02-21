@@ -1,0 +1,15 @@
+[package]
+name = "sdl"
+version = "0.1.0"
+authors = ["Owner Name <owner_name@email.com>"]
+edition = "2018"
+
+[dependencies]
+sdl2 = "0.32.2"
+gl = "0.14.0"
+cgmath = "0.17.0"
+c_str_macro = "1.0.2"
+imgui = "0.2.1"
+imgui-sdl2 = "0.7.0"
+imgui-opengl-renderer = "0.6.0"
+image = "0.22.3"
